@@ -1,0 +1,7 @@
+{
+  "name": "github-grass",
+  "repository": "https://github.com/shun-shobon/github-grass.git",
+  "author": "shun-shobon <shun.shobon@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
